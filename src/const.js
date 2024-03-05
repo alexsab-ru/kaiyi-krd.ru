@@ -1,8 +1,8 @@
 export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Название сайта по умолчанию
 export const SITE_URL = 'kaiyi-krd.ru'; // Название сайта по умолчанию
 export const SITE_NAME = 'Автохолдинг'; // Название сайта по умолчанию
-export const LEGAL_ENTITY = 'ООО «Автохолдинг»'; // Юр лицо
-export const LEGAL_INN = '6324066475'; // ИНН
+export const LEGAL_ENTITY = 'ООО «Автохолдинг Н»'; // Юр лицо
+export const LEGAL_INN = '0107028665'; // ИНН
 export const LEGAL_CITY = 'г. Краснодар'; // Город
 export const LEGAL_CITY_WHERE = 'Краснодаре'; // где? в Городе
 export const SITE_DESCR = 'Официальный дилерский центр'; // Описание сайта по умолчанию
