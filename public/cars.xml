@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <carcopy version="2">
-  <creation-date>14 May 2024 07:41:20 GMT+0</creation-date>
+  <creation-date>14 May 2024 23:26:44 GMT+0</creation-date>
   <offers>
     <offer>
       <id>9415937</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2024-05-14 10:21:32</date>
-      <valid-thru-date>11-06-2024</valid-thru-date>
+      <valid-thru-date>12-06-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -194,7 +194,7 @@
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2024-05-14 10:14:34</date>
-      <valid-thru-date>11-06-2024</valid-thru-date>
+      <valid-thru-date>12-06-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -368,7 +368,7 @@ Kaiyi X3 - переднеприводный кроссовер субкомпа�
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2024-05-14 10:13:08</date>
-      <valid-thru-date>11-06-2024</valid-thru-date>
+      <valid-thru-date>12-06-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -546,7 +546,7 @@ Kaiyi X3 - переднеприводный кроссовер субкомпа�
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2024-05-14 09:44:33</date>
-      <valid-thru-date>11-06-2024</valid-thru-date>
+      <valid-thru-date>12-06-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -728,7 +728,9 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <video-file-url>https://disk.yandex.ru/i/1YAZn_F0wa--mA</video-file-url>
       <ovido_url />
       <publications />
-      <markets_data />
+      <markets_data>
+        <market name="avito.ru" url="https://www.avito.ru/items/3853075901" />
+      </markets_data>
       <warranty-expire />
       <admission-status />
       <crm-status />
@@ -741,7 +743,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2024-05-14 10:25:10</date>
-      <valid-thru-date>11-06-2024</valid-thru-date>
+      <valid-thru-date>12-06-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -926,7 +928,9 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <video-file-url>https://disk.yandex.ru/i/y3G4l0RGfXJu2Q</video-file-url>
       <ovido_url />
       <publications />
-      <markets_data />
+      <markets_data>
+        <market name="avito.ru" url="https://www.avito.ru/items/3469141478" />
+      </markets_data>
       <warranty-expire />
       <admission-status />
       <crm-status />
@@ -939,7 +943,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2024-05-14 10:28:05</date>
-      <valid-thru-date>11-06-2024</valid-thru-date>
+      <valid-thru-date>12-06-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1112,7 +1116,9 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <video-file-url>https://disk.yandex.ru/i/y3G4l0RGfXJu2Q</video-file-url>
       <ovido_url />
       <publications />
-      <markets_data />
+      <markets_data>
+        <market name="avito.ru" url="https://www.avito.ru/items/3852829815" />
+      </markets_data>
       <warranty-expire />
       <admission-status />
       <crm-status />
@@ -1125,7 +1131,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2024-05-14 10:35:27</date>
-      <valid-thru-date>11-06-2024</valid-thru-date>
+      <valid-thru-date>12-06-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1295,7 +1301,9 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <video-file-url>https://disk.yandex.ru/i/y3G4l0RGfXJu2Q</video-file-url>
       <ovido_url />
       <publications />
-      <markets_data />
+      <markets_data>
+        <market name="avito.ru" url="https://www.avito.ru/items/3852858614" />
+      </markets_data>
       <warranty-expire />
       <admission-status />
       <crm-status />
