@@ -11,6 +11,7 @@ model_mapping = {
             "Серый": "gray.png",
             "Красный": "red.png",
             "Серебристый": "white.png",
+            "Серебряный": "white.png",
             "Белый": "white.png",
         }},
     "X3": {
@@ -62,6 +63,8 @@ model_mapping = {
             "Серый": "dark-gray.png",
             "Темно-серый": "dark-gray.png",
             "Светло-серый": "light-gray.png",
+            "Синий": "dark-blue.png",
+            "Темно-синий": "dark-blue.png",
             "Фиолетовый": "purple.png",
             "Серебристый": "white.png",
             "Белый": "white.png",
