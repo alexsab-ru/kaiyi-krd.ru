@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <carcopy version="2">
-  <creation-date>21 Jun 2024 10:22:22 GMT+0</creation-date>
+  <creation-date>21 Jun 2024 13:10:51 GMT+0</creation-date>
   <offers>
     <offer>
       <id>9435818</id>
@@ -377,7 +377,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <id>9639632</id>
       <seller-id>68894</seller-id>
       <seller-key />
-      <date>2024-06-01 02:40:02</date>
+      <date>2024-06-21 16:01:51</date>
       <valid-thru-date>19-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -396,10 +396,10 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <old_price />
       <old_price_currency />
       <discount-price />
-      <discount-price-reason />
-      <credit-discount>30000</credit-discount>
+      <discount-price-reason>Цена при продаже старого автомобиля по системе Trade-in</discount-price-reason>
+      <credit-discount>240000</credit-discount>
       <max_discount /><insurance-discount />
-      <tradein-discount>150000</tradein-discount>
+      <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
       <run>0</run>
@@ -577,7 +577,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <id>9639633</id>
       <seller-id>68894</seller-id>
       <seller-key />
-      <date>2024-06-01 02:40:02</date>
+      <date>2024-06-21 16:01:57</date>
       <valid-thru-date>19-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -596,10 +596,10 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <old_price />
       <old_price_currency />
       <discount-price />
-      <discount-price-reason />
-      <credit-discount>300000</credit-discount>
+      <discount-price-reason>Цена при продаже старого автомобиля по системе Trade-in</discount-price-reason>
+      <credit-discount>240000</credit-discount>
       <max_discount /><insurance-discount />
-      <tradein-discount>150000</tradein-discount>
+      <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
       <run>0</run>
@@ -765,7 +765,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <id>9639635</id>
       <seller-id>68894</seller-id>
       <seller-key />
-      <date>2024-06-01 02:40:02</date>
+      <date>2024-06-21 16:02:02</date>
       <valid-thru-date>19-07-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -784,10 +784,10 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <old_price />
       <old_price_currency />
       <discount-price />
-      <discount-price-reason />
-      <credit-discount>30000</credit-discount>
+      <discount-price-reason>Цена при продаже старого автомобиля по системе Trade-in</discount-price-reason>
+      <credit-discount>240000</credit-discount>
       <max_discount /><insurance-discount />
-      <tradein-discount>150000</tradein-discount>
+      <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
       <run>0</run>
