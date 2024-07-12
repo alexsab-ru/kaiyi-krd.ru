@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <carcopy version="2">
-  <creation-date>11 Jul 2024 23:26:49 GMT+0</creation-date>
+  <creation-date>12 Jul 2024 10:52:12 GMT+0</creation-date>
   <offers>
     <offer>
       <id>9435818</id>
@@ -982,7 +982,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <id>9681082</id>
       <seller-id>68894</seller-id>
       <seller-key />
-      <date>2024-07-04 09:43:46</date>
+      <date>2024-07-12 13:46:17</date>
       <valid-thru-date>09-08-2024</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
@@ -1002,7 +1002,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <old_price_currency />
       <discount-price>1800000</discount-price>
       <discount-price-reason>Цена при покупке в кредит</discount-price-reason>
-      <credit-discount>240000</credit-discount>
+      <credit-discount />
       <max_discount>395000</max_discount><insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
