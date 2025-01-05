@@ -489,7 +489,7 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, ele
                 content += f"  {line}\n"
         elif child.tag == config['description_tag'] and child.text:
             description = child.text
-            flat_description = description.replace('\n', '<br>\n')
+            flat_description = description.replace('\n', '<br>\n').replace(':', "")
             # content += f"content: |\n"
             # for line in flat_description.split("\n"):
                 # content += f"  {line}\n"
