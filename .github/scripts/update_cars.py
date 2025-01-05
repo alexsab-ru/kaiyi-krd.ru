@@ -3,6 +3,10 @@ import argparse
 from utils import *
 import xml.etree.ElementTree as ET
 from typing import Dict, List, Optional
+import platform
+print(platform.system())
+print(platform.python_version())
+print(platform.locale.getdefaultlocale())
 
 class CarProcessor:
     def __init__(self, source_type: str):
