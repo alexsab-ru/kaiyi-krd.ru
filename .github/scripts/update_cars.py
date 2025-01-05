@@ -12,7 +12,6 @@ import locale
 
 def check_locale():
     print("Default Locale:", locale.getdefaultlocale())
-    print("Locale for LC_ALL:", locale.getlocale(locale.LC_ALL))
     print("Preferred encoding:", locale.getpreferredencoding())
 
 class CarProcessor:
