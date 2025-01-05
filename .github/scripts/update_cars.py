@@ -3,10 +3,17 @@ import argparse
 from utils import *
 import xml.etree.ElementTree as ET
 from typing import Dict, List, Optional
+
 import platform
 print(platform.system())
 print(platform.python_version())
-print(platform.locale.getdefaultlocale())
+
+import locale
+
+def check_locale():
+    print("Default Locale:", locale.getdefaultlocale())
+    print("Locale for LC_ALL:", locale.getlocale(locale.LC_ALL))
+    print("Preferred encoding:", locale.getpreferredencoding())
 
 class CarProcessor:
     def __init__(self, source_type: str):
@@ -157,6 +164,8 @@ def main():
     
     args = parser.parse_args()
     config = vars(args)
+
+    check_locale()
 
     # Инициализация процессора для конкретного источника
     processor = CarProcessor(args.source_type)
