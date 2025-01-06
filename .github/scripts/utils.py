@@ -533,6 +533,7 @@ def update_yaml(car, filename, friendly_url, current_thumbs, config):
 
     # Parse the YAML block
     yaml_block = parts[1].strip()
+    print(yaml_block)
     data = yaml.safe_load(yaml_block)
 
     total_element = car.find('total')
