@@ -5,7 +5,7 @@
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -25,7 +25,7 @@
       <discount-price />
       <discount-price-reason />
       <credit-discount />
-      <max_discount>500000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>200000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -173,13 +173,13 @@ Kaiyi X3 - переднеприводный кроссовер субкомпа�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1835000</priceWithDiscount><sale_price>1835000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-x3-15-cvt-113-лс-comfort-черный-2023/</url></offer>
+    <max_discount>500000</max_discount><priceWithDiscount>1835000</priceWithDiscount><sale_price>1835000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-x3-15-cvt-113-лс-comfort-черный-2023/</url></offer>
     <offer>
       <id>9639612</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -199,7 +199,7 @@ Kaiyi X3 - переднеприводный кроссовер субкомпа�
       <discount-price />
       <discount-price-reason />
       <credit-discount>15000</credit-discount>
-      <max_discount>300000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>150000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -370,13 +370,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2697900</priceWithDiscount><sale_price>2697900</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-x7-kunlun-16-amt-186-лс-comfort-синий-2023/</url></offer>
+    <max_discount>300000</max_discount><priceWithDiscount>2697900</priceWithDiscount><sale_price>2697900</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-x7-kunlun-16-amt-186-лс-comfort-синий-2023/</url></offer>
     <offer>
       <id>9639632</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -396,7 +396,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price />
       <discount-price-reason>Цена при продаже старого автомобиля по системе Trade-in</discount-price-reason>
       <credit-discount>240000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -579,13 +579,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2290000</priceWithDiscount><sale_price>2290000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-белый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2290000</priceWithDiscount><sale_price>2290000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-белый-2023/</url></offer>
     <offer>
       <id>9639633</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -605,7 +605,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price />
       <discount-price-reason>Цена при продаже старого автомобиля по системе Trade-in</discount-price-reason>
       <credit-discount>240000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -777,13 +777,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2290000</priceWithDiscount><sale_price>2290000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-серебряный-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2290000</priceWithDiscount><sale_price>2290000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-серебряный-2023/</url></offer>
     <offer>
       <id>9639635</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -803,7 +803,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price />
       <discount-price-reason>Цена при продаже старого автомобиля по системе Trade-in</discount-price-reason>
       <credit-discount>240000</credit-discount>
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -975,13 +975,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2360000</priceWithDiscount><sale_price>2360000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-sport-красный-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2360000</priceWithDiscount><sale_price>2360000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-sport-красный-2023/</url></offer>
     <offer>
       <id>9681082</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1001,7 +1001,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price>1800000</discount-price>
       <discount-price-reason>Цена при покупке в кредит</discount-price-reason>
       <credit-discount />
-      <max_discount>395000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1175,13 +1175,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
+    <max_discount>395000</max_discount><priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
     <offer>
       <id>9681086</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1201,7 +1201,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price>1800000</discount-price>
       <discount-price-reason>Цена при продаже старого автомобиля по системе Trade-in</discount-price-reason>
       <credit-discount>240000</credit-discount>
-      <max_discount>395000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1375,13 +1375,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
+    <max_discount>395000</max_discount><priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
     <offer>
       <id>9681089</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1401,7 +1401,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price>1800000</discount-price>
       <discount-price-reason>Цена при покупке в кредит</discount-price-reason>
       <credit-discount>240000</credit-discount>
-      <max_discount>395000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1575,13 +1575,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
+    <max_discount>395000</max_discount><priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
     <offer>
       <id>9681090</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1601,7 +1601,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price>1800000</discount-price>
       <discount-price-reason>Цена при продаже старого автомобиля по системе Trade-in</discount-price-reason>
       <credit-discount>240000</credit-discount>
-      <max_discount>395000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1775,13 +1775,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
+    <max_discount>395000</max_discount><priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
     <offer>
       <id>9681093</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -1801,7 +1801,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price>1800000</discount-price>
       <discount-price-reason>Цена при покупке в кредит</discount-price-reason>
       <credit-discount>240000</credit-discount>
-      <max_discount>395000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -1976,13 +1976,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
+    <max_discount>395000</max_discount><priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
     <offer>
       <id>9681094</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2002,7 +2002,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price>1800000</discount-price>
       <discount-price-reason />
       <credit-discount>240000</credit-discount>
-      <max_discount>395000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -2176,13 +2176,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
+    <max_discount>395000</max_discount><priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
     <offer>
       <id>9681099</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2202,7 +2202,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price>1800000</discount-price>
       <discount-price-reason>Цена при покупке в кредит</discount-price-reason>
       <credit-discount>240000</credit-discount>
-      <max_discount>395000</max_discount><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -2376,13 +2376,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
+    <max_discount>395000</max_discount><priceWithDiscount>1800000</priceWithDiscount><sale_price>1800000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></offer>
     <offer>
       <id>9695496</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2402,7 +2402,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price />
       <discount-price-reason />
       <credit-discount />
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount />
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -2562,13 +2562,13 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2997900</priceWithDiscount><sale_price>2997900</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-x7-kunlun-16-amt-186-лс-comfort-белый-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2997900</priceWithDiscount><sale_price>2997900</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-x7-kunlun-16-amt-186-лс-comfort-белый-2023/</url></offer>
     <offer>
       <id>9696153</id>
       <seller-id>68894</seller-id>
       <seller-key />
       <date>2025-01-01 02:30:02</date>
-      <valid-thru-date>02-02-2025</valid-thru-date>
+      <valid-thru-date>03-02-2025</valid-thru-date>
       <type-id>1</type-id>
       <type>Легковой</type>
       <category-id>1</category-id>
@@ -2588,7 +2588,7 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <discount-price />
       <discount-price-reason />
       <credit-discount />
-      <max_discount /><insurance-discount />
+      <insurance-discount />
       <tradein-discount>240000</tradein-discount>
       <vat-invoice>no</vat-invoice>
       <haggle>no</haggle>
@@ -2752,6 +2752,6 @@ KAIYI X7 Kunlun комплектуется 12,3-дюймовой жидкокр�
       <color-tags />
       <max-sale-date />
       <diagnostic-card-url />
-    <priceWithDiscount>2360000</priceWithDiscount><sale_price>2360000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-sport-красный-2023/</url></offer>
+    <max_discount>0</max_discount><priceWithDiscount>2360000</priceWithDiscount><sale_price>2360000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-sport-красный-2023/</url></offer>
   </offers>
 </carcopy>
