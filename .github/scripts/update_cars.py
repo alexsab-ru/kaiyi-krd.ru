@@ -4,16 +4,6 @@ from utils import *
 import xml.etree.ElementTree as ET
 from typing import Dict, List, Optional
 
-import platform
-print(platform.system())
-print(platform.python_version())
-
-import locale
-
-def check_locale():
-    print("Default Locale:", locale.getdefaultlocale())
-    print("Preferred encoding:", locale.getpreferredencoding())
-
 class CarProcessor:
     def __init__(self, source_type: str):
         self.source_type = source_type
@@ -163,8 +153,6 @@ def main():
     
     args = parser.parse_args()
     config = vars(args)
-
-    check_locale()
 
     # Инициализация процессора для конкретного источника
     processor = CarProcessor(args.source_type)
