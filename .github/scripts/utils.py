@@ -489,17 +489,17 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, ele
                 content += f"  {line}\n"
         elif child.tag == config['description_tag'] and child.text:
             description = f"{child.text}"
-            flat_description = description.replace('\n', '<br>\n')
+            description = description.replace(':', '').replace('📞', '')
             # Сам тег description добавляется ранее, но мы собираем его содержимое для использования в контенте страницы
             # content += f"content: |\n"
             # for line in flat_description.split("\n"):
                 # content += f"  {line}\n"
         elif child.tag == 'equipment' and child.text:
-            description = f"{child.text}"
-            flat_description = description.replace('\n', '<br>\n').replace(':', '')
-            content += f"{child.tag}: '{flat_description}'\n"
+            equipment = f"{child.text}"
+            flat_equipment = equipment.replace('\n', '<br>\n').replace(':', '').replace('📞', '')
+            content += f"{child.tag}: '{flat_equipment}'\n"
             # content += f"{child.tag}: |\n"
-            # for line in flat_description.split("\n"):
+            # for line in flat_equipment.split("\n"):
             #     content += f"  {line}\n"
         else:
             if child.tag in encountered_tags:  # Проверяем, встречался ли уже такой тег
