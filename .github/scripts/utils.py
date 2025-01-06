@@ -489,7 +489,7 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, ele
                 content += f"  {line}\n"
         elif child.tag == config['description_tag'] and child.text:
             description = f"{child.text}"
-            description = description.replace(':', '').replace('📞', '')
+            # description = description.replace(':', '').replace('📞', '')
             # Сам тег description добавляется ранее, но мы собираем его содержимое для использования в контенте страницы
             # content += f"content: |\n"
             # for line in flat_description.split("\n"):
