@@ -519,7 +519,7 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, ele
 
 
 def update_yaml(car, filename, friendly_url, current_thumbs, config):
-
+    print(f"Обновление файла: {filename}")
     with open(filename, "r", encoding="utf-8") as f:
         content = f.read()
 
