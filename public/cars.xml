@@ -13,7 +13,7 @@
   <availability>В наличии</availability>
   <custom>Растаможен</custom>
   <not_registered_in_russia>true</not_registered_in_russia>
-  <price>2425000</price>
+  <price>2997000</price>
   <currency>RUR</currency>
   <with_nds>false</with_nds>
   <vin>XUUDB3G24P0000467</vin>
@@ -69,6 +69,10 @@
 <image>https://img.carcopy.ru/3e34/1f5f/9dfa/cc05/e689/32db/5a6a/53bb/ef37/a48d/3e341f5f9dfacc05e68932db5a6a53bbef37a48d_1600x0.jpg?s=159265</image>
 <image>https://img.carcopy.ru/9bea/c3cd/ea06/a6fc/0435/f120/06db/92fd/5465/5114/9beac3cdea06a6fc0435f12006db92fd54655114_1600x0.jpg?s=199351</image>
 </images>
+ <credit_discount>150000</credit_discount> <tradein_discount>150000</tradein_discount> <discount_price>
+    <price>2697000</price>
+    <action>show</action>
+  </discount_price>
   <description>⭐️Успейте купить желанный автомобиль по очень выгодным ценам, только до 30 Апреля!⭐
 
 KAIYI Автохолдинг Тургеневский – oфициальный дилер KAIYI в Крaснoдapcкoм крае!.
@@ -129,8 +133,8 @@ KАIYI Х7 Kunlun (Кaи X7)
 Солярис, корейские авто, китайские авто, седан,Нyundаi sоlаris, Sоlаris НS
 
 солярис соларис хенде хендаи хундай hyundаi sоlаris сrеtа тест драйв автосалон краснодар купить авто купить машину машина в кредит авто в кредит новые автомобили трейд ин рассрочка официальный дилер кроссовер рио киа селтос sеltоs kiа riо соул sоul оmоdа S5 С5 сhаngаn СS35 Juliоn Сhеry Тiggо чери тиго джетур jаесоо 
-[iieeocc:11116]</description>
-<max_discount>0</max_discount><priceWithDiscount>2425000</priceWithDiscount><sale_price>2425000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-x7-kunlun-16-amt-186-лс-comfort-белый-2024/</url></car>
+[iieeocc:83095]</description>
+<max_discount>0</max_discount><priceWithDiscount>2997000</priceWithDiscount><sale_price>2997000</sale_price><url>https://kaiyi-krd.ru/cars/kaiyi-x7-kunlun-16-amt-186-лс-comfort-белый-2024/</url></car>
 <car>
   <unique_id>9958370</unique_id>
   <action>show</action>
